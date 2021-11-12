@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf75c630.chunk.css",
+    "main.js": "/static/js/main.bc3e61e8.chunk.js",
+    "main.js.map": "/static/js/main.bc3e61e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43430573.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43430573.js.map",
+    "static/js/2.135f8304.chunk.js": "/static/js/2.135f8304.chunk.js",
+    "static/js/2.135f8304.chunk.js.map": "/static/js/2.135f8304.chunk.js.map",
+    "static/js/3.a52528f0.chunk.js": "/static/js/3.a52528f0.chunk.js",
+    "static/js/3.a52528f0.chunk.js.map": "/static/js/3.a52528f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bf75c630.chunk.css.map": "/static/css/main.bf75c630.chunk.css.map",
+    "static/js/2.135f8304.chunk.js.LICENSE.txt": "/static/js/2.135f8304.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg.29b25be3.jpg",
+    "static/media/dark-side.e0f8cab7.jpg": "/static/media/dark-side.e0f8cab7.jpg",
+    "static/media/droid.de165dd8.svg": "/static/media/droid.de165dd8.svg",
+    "static/media/falcon.c1d0a8d1.jpg": "/static/media/falcon.c1d0a8d1.jpg",
+    "static/media/lightsaber.eb7d4cd6.svg": "/static/media/lightsaber.eb7d4cd6.svg",
+    "static/media/not-found.1062f5e4.png": "/static/media/not-found.1062f5e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43430573.js",
+    "static/js/2.135f8304.chunk.js",
+    "static/css/main.bf75c630.chunk.css",
+    "static/js/main.bc3e61e8.chunk.js"
+  ]
+}
